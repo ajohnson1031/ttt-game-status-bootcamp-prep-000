@@ -7,7 +7,7 @@ end
 WIN_COMBINATIONS = [
   thw = [0,1,2],
   mhw = [3,4,5],
-  bhw = [6, 7,8],
+  bhw = [6,7,8],
   lvw = [0,3,6],
   mvw = [1,4,7],
   rvw = [2,5,8],
