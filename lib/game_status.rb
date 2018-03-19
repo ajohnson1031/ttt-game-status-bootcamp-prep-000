@@ -14,3 +14,4 @@ WIN_COMBINATIONS = [
   ldw = [0,4,8],
   rdw = [2,4,6]
 ]
+
